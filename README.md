@@ -1,23 +1,16 @@
-﻿# litelife:[PCentre](https://github.com/litfe/PCentre) 
- 
-家庭计算应用
+﻿# [PCentre](https://github.com/Qful/PCentre) 
+[![sites](Qful/qitas.png)](http://www.Qful.net)
+## [Q简介](https://github.com/Qful/PCentre) 
 
-[![sites](litelife/litelife.png)](http://www.litelife.cc)
-
-#### 更多关于：[litelife](https://github.com/litfe/litelife) 可访问 www.litelife.cc
-
----
-
-### 简介
-
-运行在PC设备上的应用程式，用于处理网络侧和交互任务
-
----
-
-### 组成
+移动计算终端，个人数字终端产品，源于智能手机和笔记本电脑，通过更专业化的进化，更好完成便携式计算任务
 
 
 
----
+### [Q资源](https://github.com/Qful/PCentre)
 
-##  www.litelife.cc   |   qitas@qitas.cn
+- [Q系统](https://github.com/OS-Q)
+- [Q硬件](https://github.com/sochub)
+- [Q智慧](https://github.com/tfzoo)
+- [Q品质](https://github.com/qitas)
+
+### www.Qful.net
