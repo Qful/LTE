@@ -1,16 +1,17 @@
-﻿# [PCentre](https://github.com/Qful/PCentre) 
-[![sites](Qful/qitas.png)](http://www.Qful.net)
-## [Q简介](https://github.com/Qful/PCentre) 
+﻿# [LTE](https://github.com/Qful/LTE) 
 
-移动计算终端，个人数字终端产品，源于智能手机和笔记本电脑，通过更专业化的进化，更好完成便携式计算任务
+[![sites](http://182.61.61.133/link/resources/Qful.png)](http://www.Qful.net)
+
+## [简介](https://github.com/Qful/LTE) 
 
 
+### [LTE芯片资源](https://github.com/sochub)
 
-### [Q资源](https://github.com/Qful/PCentre)
 
-- [Q系统](https://github.com/OS-Q)
-- [Q硬件](https://github.com/sochub)
-- [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
+* [8910DM](https://github.com/sochub/8910DM)
+* [ASR3601](https://github.com/sochub/ASR3601)
+* [MDM9207](https://github.com/sochub/MDM9207)
+
+
 
 ### www.Qful.net
